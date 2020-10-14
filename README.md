@@ -1,9 +1,7 @@
-## My study log
+### My study log
 
-### 12 October 2020 
-
-
-0 Stage -  ✅
+# 12 October 2020 
+## 0 Stage 
 Today I've finished both git courses related to git. 
 This helped me a lot to refresh my git knowledge because as usual I use a few basic git commands
 and almost forgot how to implement them.
@@ -17,7 +15,7 @@ Although I didn't clarify some git advanced commands 100% but wrote them down to
 [screenshot_task_0.2.2](./task_git_screenshots/scr0_2_2.png)
 
 
-### 13 October 2020
+# 13 October 2020
 ## Linux CLI, and HTTP
 
 Today I've refreshed my Linux CLI and HTTP knowledge. 
@@ -33,3 +31,11 @@ My plan is to move futher to complete the main tasks but definetly come back aft
 [screenshot_quiz3](./task_linux_cli/scr_quiz3.png)
 [screenshot_quiz4](./task_linux_cli/scr_quiz4.png)
 
+
+# 14 October 2020
+## Git Collaboration
+
+This task was great to review some core git commands and clarify the collaboration through git. 
+especially `git rebase` 
+
+[screenshot](./task_git_collaboration/screenshot.png)
