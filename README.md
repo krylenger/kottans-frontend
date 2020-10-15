@@ -42,6 +42,6 @@ especially `git rebase`
 
 ### Task 4.1 - Intro to HTML & CSS (Eng) - DONE ✅ 
 
-# 14 October 2020
+# 15 October 2020
 
 ### Task 4.2 - Learn HTML - DONE ✅
