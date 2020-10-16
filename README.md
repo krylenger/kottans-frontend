@@ -48,7 +48,7 @@ especially `git rebase`
 # 16 October 2020 
 ## Intro to HTML and CSS
 
-[screenshot_task_1](./task_html_css_intro/scr_task_1.png)
+[screenshot_task_1](./task_html_css_intro/scr_task_1.png){:width="200"}
 [screenshot_task_2](./task_html_css_intro/scr_task_2.png)
 [screenshot_task_3](./task_html_css_intro/scr_task_3.png)
 
