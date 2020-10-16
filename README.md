@@ -38,7 +38,10 @@ My plan is to move futher to complete the main tasks but definetly come back aft
 This task was great to review some core git commands and clarify the collaboration through git. 
 especially `git rebase` 
 
-[screenshot](./task_git_collaboration/screenshot.png)
+[1 task - GitHub & Collaboration - screenshot](./task_git_collaboration/screenshot.png)
+learngitbranching.js.org:
+[screenshot_task_0.2.1](./task_git_screenshots/scr0_2.png)
+[screenshot_task_0.2.2](./task_git_screenshots/scr0_2_2.png)
 
 ### Task 4.1 - Intro to HTML & CSS (Eng) - DONE ✅ 
 
