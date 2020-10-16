@@ -42,6 +42,15 @@ especially `git rebase`
 
 ### Task 4.1 - Intro to HTML & CSS (Eng) - DONE ✅ 
 
-# 15 October 2020 
-
+# 15 October 2020  
 ### Task 4.2 - Learn HTML - DONE ✅
+
+# 16 October 2020 
+## Intro to HTML and CSS
+
+[screenshot_task_1](./task_html_css_intro/scr_task_1.png)
+[screenshot_task_2](./task_html_css_intro/scr_task_2.png)
+[screenshot_task_3](./task_html_css_intro/scr_task_3.png)
+
+I've refreshed my CSS knowledge a little bit, especially css transitions section. 
+I'm going to implement the cool chained transition with my next animated element. 
