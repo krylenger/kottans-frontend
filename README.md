@@ -57,3 +57,15 @@ learngitbranching.js.org:\
 
 I've refreshed my CSS knowledge a little bit, especially css transitions section. 
 I'm going to implement the cool chained transition with my next animated element. 
+
+# 17 October 2020 
+## Responsive Web Design
+
+[screenshot_task_1](./task_responsive_web_design/screenshot_task_1.png)\
+[screenshot_task_2](./task_responsive_web_design/screenshot_task_2.png)
+
+This one was definitly a good refresher. 
+In addition I higly improved my @media understanding.
+It was a great practice to adjust the layout of different sections of website in lessons 4 & 5 in task 1. 
+Definitly will implement "Off Canvas" responsive design pattern in my next project. 
+I've tried it for the 1st time in this task and it was truly great! 
