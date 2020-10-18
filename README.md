@@ -69,3 +69,9 @@ In addition I higly improved my @media understanding.
 It was a great practice to adjust the layout of different sections of website in lessons 4 & 5 in task 1. 
 Definitly will implement "Off Canvas" responsive design pattern in my next project. 
 I've tried it for the 1st time in this task and it was truly great! 
+
+# 18 October 2020 
+
+Today I've started my first study project - pop-up menu, developed using only html and css. 
+I've already did layout part and toggle state. 
+Writing it without JS was a little bit challenging but definitly improved my CSS skill. 
