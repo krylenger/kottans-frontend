@@ -75,3 +75,12 @@ I've tried it for the 1st time in this task and it was truly great!
 Today I've started my first study project - pop-up menu, developed using only html and css. 
 I've already did layout part and toggle state. 
 Writing it without JS was a little bit challenging but definitly improved my CSS skill. 
+
+# 19 October 2020 
+
+Today I didn't have that much to code but anyway dedicated some time and almost finished my pop-up menu project.
+It's approximately 90% done. 
+Just some polishing work and moving forward. 
+Today I've reviwed so much stuff! 
+And learn new as well. 
+I'm pretty excited about this exercise!
