@@ -84,3 +84,8 @@ Just some polishing work and moving forward.
 Today I've reviwed so much stuff! 
 And learn new as well. 
 I'm pretty excited about this exercise!
+
+# 20 October 2020 
+
+Pop-up task finished 98%
+Trying to figure out for a long time how to implement TAB into sub-menu.
