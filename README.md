@@ -122,16 +122,15 @@ I really appreciate all the feedback from mentors that helped me to learn new st
 [screenshot_task_1](./task_js_basics/screenshot_1.png)\
 [screenshot_task_2](./task_js_basics/screenshot_2.png)
 
-screenshots - previews:
 <details>
-  <summary>Udacity</summary>
+  <summary>Udacity_preview</summary>
   
   ![1 task - GitHub & Collaboration - screenshot](./task_js_basics/screenshot_1_preview.png)
   
 </details>
 
 <details>
-  <summary>codeacademy</summary>
+  <summary>codeacademy_preview</summary>
   
   ![1 task - GitHub & Collaboration - screenshot](/task_js_basics/screenshot_2_preview.png)
   
