@@ -97,7 +97,7 @@ I'm pretty excited about this exercise!
 Pop-up task finished 98%
 Trying to figure out for a long time how to implement TAB into sub-menu.
 
-# 21-29 October 2020
+*21-29 October 2020*
 
 ## HTML-CSS-Popup 
 [demo](https://krylenger.github.io/frontend-2021-homeworks/submissions/krylenger/html-css-popup/)\
