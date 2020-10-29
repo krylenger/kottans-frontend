@@ -89,3 +89,23 @@ I'm pretty excited about this exercise!
 
 Pop-up task finished 98%
 Trying to figure out for a long time how to implement TAB into sub-menu.
+
+# 21-29 October 2020
+
+I didn't write here for all these days however I've been coding/stydying every single day. 
+For this period of time I've completed Pop-up task. 
+Working on this project I've learned so much new HTML/CSS stuff! 
+Something from the list: 
+- You should check you project in https://validator.w3.org/ (validator)
+- BEM methodology (before I've been writing chaotic classes in HTML and selectors in CSS without any structure. Now I know the right way to follow!!)
+- :before :after <- extremly useful!
+- z-index <- one more important thing into my knowledge base 
+- pop-up element implementation with :checked - this was really cool to learn!
+- adding empty lines at the end of the file
+- some unofficial rule of creating header navigation is to use such structure header>ul>li>a
+- and many-many more!! 
+I really appreciate all the feedback from mentors that helped me to learn new stuff and become better!
+
+## HTML-CSS-Popup 
+[demo](https://krylenger.github.io/frontend-2021-homeworks/submissions/krylenger/html-css-popup/)
+[codebase](https://github.com/krylenger/frontend-2021-homeworks/tree/pop-up/submissions/krylenger/html-css-popup)
