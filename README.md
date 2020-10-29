@@ -99,6 +99,10 @@ Trying to figure out for a long time how to implement TAB into sub-menu.
 
 # 21-29 October 2020
 
+## HTML-CSS-Popup 
+[demo](https://krylenger.github.io/frontend-2021-homeworks/submissions/krylenger/html-css-popup/)\
+[codebase](https://github.com/krylenger/frontend-2021-homeworks/tree/pop-up/submissions/krylenger/html-css-popup)
+
 I didn't write here for all these days however I've been coding/stydying every single day. 
 For this period of time I've completed Pop-up task and finished Javascript section (read about this below) 
 Working on this project I've learned so much new HTML/CSS stuff! 
@@ -113,9 +117,6 @@ Something from the list:
 - and many-many more!! 
 I really appreciate all the feedback from mentors that helped me to learn new stuff and become better!
 
-## HTML-CSS-Popup 
-[demo](https://krylenger.github.io/frontend-2021-homeworks/submissions/krylenger/html-css-popup/)\
-[codebase](https://github.com/krylenger/frontend-2021-homeworks/tree/pop-up/submissions/krylenger/html-css-popup)
 
 ## JS Basics
 
