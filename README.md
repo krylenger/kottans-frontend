@@ -38,6 +38,13 @@ My plan is to move futher to complete the main tasks but definetly come back aft
 This task was great to review some core git commands and clarify the collaboration through git. 
 especially `git rebase` 
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  ![1 task - GitHub & Collaboration - screenshot](./task_git_collaboration/screenshot_preview.png)
+  
+</details>
+
 [1 task - GitHub & Collaboration - screenshot](./task_git_collaboration/screenshot.png)\
 learngitbranching.js.org:\
 [screenshot_task_0.2.1](./task_git_screenshots/scr0_2.png)
@@ -115,12 +122,6 @@ I really appreciate all the feedback from mentors that helped me to learn new st
 [screenshot_task_1](./task_js_basics/screenshot_1.png)\
 [screenshot_task_2](./task_js_basics/screenshot_2.png)\
 
-<details>
-  <summary>Click to expand!</summary>
-  
-  screenshot
-  
-</details>
 
 After finishing this section I've realized that before my JS knowledge was pretty weak, mostly theoretical and just with a little practical background.
 Tasks from codeacademy (epsecially Intermidiate Algorythms) helped me a lot to improve my undesrtanding and confidence. 
