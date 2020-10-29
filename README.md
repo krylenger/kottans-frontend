@@ -1,6 +1,6 @@
 ### My study log
 
-# 12 October 2020 
+### *12 October 2020*
 ## 0 Stage 
 Today I've finished both git courses related to git. 
 This helped me a lot to refresh my git knowledge because as usual I use a few basic git commands
@@ -15,7 +15,7 @@ Although I didn't clarify some git advanced commands 100% but wrote them down to
 [screenshot_task_0.2.2](./task_git_screenshots/scr0_2_2.png)
 
 
-# 13 October 2020
+### *13 October 2020*
 ## Linux CLI, and HTTP
 
 Today I've refreshed my Linux CLI and HTTP knowledge. 
@@ -32,7 +32,7 @@ My plan is to move futher to complete the main tasks but definetly come back aft
 [screenshot_quiz4](./task_linux_cli/scr_quiz4.png)
 
 
-# 14 October 2020
+### *14 October 2020*
 ## Git Collaboration
 
 This task was great to review some core git commands and clarify the collaboration through git. 
@@ -52,10 +52,10 @@ learngitbranching.js.org:\
 
 ### Task 4.1 - Intro to HTML & CSS (Eng) - DONE ✅ 
 
-# 15 October 2020  
+### *15 October 2020*
 ### Task 4.2 - Learn HTML - DONE ✅
 
-# 16 October 2020 
+### *16 October 2020*
 ## Intro to HTML and CSS
 
 [screenshot_task_1](./task_html_css_intro/scr_task_1.png)\
@@ -65,7 +65,7 @@ learngitbranching.js.org:\
 I've refreshed my CSS knowledge a little bit, especially css transitions section. 
 I'm going to implement the cool chained transition with my next animated element. 
 
-# 17 October 2020 
+### *17 October 2020*
 ## Responsive Web Design
 
 [screenshot_task_1](./task_responsive_web_design/screenshot_task_1.png)\
@@ -77,13 +77,13 @@ It was a great practice to adjust the layout of different sections of website in
 Definitly will implement "Off Canvas" responsive design pattern in my next project. 
 I've tried it for the 1st time in this task and it was truly great! 
 
-# 18 October 2020 
+### *18 October 2020*
 
 Today I've started my first study project - pop-up menu, developed using only html and css. 
 I've already did layout part and toggle state. 
 Writing it without JS was a little bit challenging but definitly improved my CSS skill. 
 
-# 19 October 2020 
+### *19 October 2020* 
 
 Today I didn't have that much to code but anyway dedicated some time and almost finished my pop-up menu project.
 It's approximately 90% done. 
@@ -92,7 +92,7 @@ Today I've reviwed so much stuff!
 And learn new as well. 
 I'm pretty excited about this exercise!
 
-# 20 October 2020 
+### *20 October 2020*
 
 Pop-up task finished 98%
 Trying to figure out for a long time how to implement TAB into sub-menu.
