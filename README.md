@@ -93,7 +93,7 @@ Trying to figure out for a long time how to implement TAB into sub-menu.
 # 21-29 October 2020
 
 I didn't write here for all these days however I've been coding/stydying every single day. 
-For this period of time I've completed Pop-up task. 
+For this period of time I've completed Pop-up task and finished Javascript section (read about this below) 
 Working on this project I've learned so much new HTML/CSS stuff! 
 Something from the list: 
 - You should check you project in https://validator.w3.org/ (validator)
@@ -107,5 +107,19 @@ Something from the list:
 I really appreciate all the feedback from mentors that helped me to learn new stuff and become better!
 
 ## HTML-CSS-Popup 
-[demo](https://krylenger.github.io/frontend-2021-homeworks/submissions/krylenger/html-css-popup/)
+[demo](https://krylenger.github.io/frontend-2021-homeworks/submissions/krylenger/html-css-popup/)\
 [codebase](https://github.com/krylenger/frontend-2021-homeworks/tree/pop-up/submissions/krylenger/html-css-popup)
+
+## JS Basics
+
+[screenshot_task_1](./task_js_basics/screenshot_1.png)\
+[screenshot_task_2](./task_js_basics/screenshot_2.png)
+
+After finishing this section I've realized that before my JS knowledge was pretty weak, mostly theoretical and just with a little practical background.
+Tasks from codeacademy (epsecially Intermidiate Algorythms) helped me a lot to improve my undesrtanding and confidence. 
+Tasks from Intermidiate Algorythms I even did 2 times to better understand and remember ways to solve different kind of problems. 
+
+I've learned a lot about RegExp!! Before it was something mystical for me and I was a litlle bit afraid of it.
+But now, after completing tasks related to RegExp and learning/practicing them for several hours I feel much-much more confident and can operate them without any problems.
+It's so cool to learn and finally understand some complex topic! Yuhuuuu!
+
