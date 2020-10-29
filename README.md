@@ -113,7 +113,14 @@ I really appreciate all the feedback from mentors that helped me to learn new st
 ## JS Basics
 
 [screenshot_task_1](./task_js_basics/screenshot_1.png)\
-[screenshot_task_2](./task_js_basics/screenshot_2.png)
+[screenshot_task_2](./task_js_basics/screenshot_2.png)\
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  screenshot
+  
+</details>
 
 After finishing this section I've realized that before my JS knowledge was pretty weak, mostly theoretical and just with a little practical background.
 Tasks from codeacademy (epsecially Intermidiate Algorythms) helped me a lot to improve my undesrtanding and confidence. 
