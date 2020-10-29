@@ -39,7 +39,7 @@ This task was great to review some core git commands and clarify the collaborati
 especially `git rebase` 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>1 task screenshot - preview</summary>
   
   ![1 task - GitHub & Collaboration - screenshot](./task_git_collaboration/screenshot_preview.png)
   
@@ -47,7 +47,7 @@ especially `git rebase`
 
 [1 task - GitHub & Collaboration - screenshot](./task_git_collaboration/screenshot.png)\
 learngitbranching.js.org:\
-[screenshot_task_0.2.1](./task_git_screenshots/scr0_2.png)
+[screenshot_task_0.2.1](./task_git_screenshots/scr0_2.png)\
 [screenshot_task_0.2.2](./task_git_screenshots/scr0_2_2.png)
 
 ### Task 4.1 - Intro to HTML & CSS (Eng) - DONE ✅ 
