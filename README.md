@@ -145,3 +145,19 @@ I've learned a lot about RegExp!! Before it was something mystical for me and I 
 But now, after completing tasks related to RegExp and learning/practicing them for several hours I feel much-much more confident and can operate them without any problems.
 It's so cool to learn and finally understand some complex topic! Yuhuuuu!
 
+
+### *30 October 2020*
+
+Today I've completed the initial course from Udacity about JavaScript and the DOM.
+There was so much new and vital knowledge for me in this course!
+I've learned the key principles of how Javascript is connected to HTML and CSS, the DOM model, its essential parts (like nodes and elements).
+I've noted many new properties and methods which I'm going to use in my DOM project.
+It was useful to learn what's the difference to where you add your <script> element: to the top or to the bottom of the HTML document,
+And certainly very interested and important section about perfomance and how is JS engine and Browser works behind the scene. 
+
+<details>
+  <summary>DOM_preview</summary>
+  
+  ![DOM - screenshot](/task_js_dom/screenshot_dom_preview.png)
+  
+</details>
