@@ -161,3 +161,17 @@ And certainly very interested and important section about perfomance and how is 
   ![DOM - screenshot](/task_js_dom/screenshot_dom_preview.png)
   
 </details>
+
+
+### *30 October 2020*
+
+Today I've done the 2nd part of Intermidiate Algorhytms! This time it was much easier for me. 
+After finishing the first part I've get a solid understanding and practice of how to work with arrays/strings/objects 
+and which methods are better in the given task. 
+This tasks were pretty cool I even get some kind of nostalgy feeling when I've been preparing to Math 
+olympiad in school because some of the tasks were related to Math.
+Also I've practiced recursion - and that's really great and makes your brain work!
+
+Finally at the end of the day I've started my 2nd project - interacting with DOM elements, navigation without 
+reloading the page.
+I have a cool idea and will do my best to implement it! So excited) Yuuhuuu!
