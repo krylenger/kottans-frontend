@@ -163,7 +163,7 @@ And certainly very interested and important section about perfomance and how is 
 </details>
 
 
-### *30 October 2020*
+### *31 October 2020*
 
 Today I've done the 2nd part of Intermidiate Algorhytms! This time it was much easier for me. 
 After finishing the first part I've get a solid understanding and practice of how to work with arrays/strings/objects 
@@ -175,3 +175,12 @@ Also I've practiced recursion - and that's really great and makes your brain wor
 Finally at the end of the day I've started my 2nd project - interacting with DOM elements, navigation without 
 reloading the page.
 I have a cool idea and will do my best to implement it! So excited) Yuuhuuu!
+
+
+### *1 November 2020*
+
+Today I've almost finished DOM project. 
+I did all the layout, styling, created the database, added assets (images) to the project folder and resized them.
+Also I've already implemented interaction with DOM elements without page reloading. (it's the main task)
+Just to need to improve several aspects and I'm ready to submit my project!
+ 
