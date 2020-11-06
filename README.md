@@ -190,13 +190,13 @@ Just to need to improve several aspects and I'm ready to submit my project!
 </details>
 
 <details>
-  <summary>DOM_preview</summary>
+  <summary>JS_preview</summary>
   
   ![JS - screenshot](/task_js_dom/screenshot_js_preview.png)
   
 </details>
 
-[DEMO](https://krylenger.github.io/kottans_task_js_dom/)/
+[demo](https://krylenger.github.io/kottans_task_js_dom/)\
 [codebase](https://github.com/krylenger/kottans_task_js_dom)
 
 This DOM project was extremly helpful, it let me practice my skills that I gained earlier (such as layout, responsive desing, etc) and as well as practice new knowledge related to DOM topic (event listeners, modifying DOM tree and its content, perfomance issues, etc.)
