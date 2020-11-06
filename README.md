@@ -155,13 +155,6 @@ I've noted many new properties and methods which I'm going to use in my DOM proj
 It was useful to learn what's the difference to where you add your <script> element: to the top or to the bottom of the HTML document,
 And certainly very interested and important section about perfomance and how is JS engine and Browser works behind the scene. 
 
-<details>
-  <summary>DOM_preview</summary>
-  
-  ![DOM - screenshot](/task_js_dom/screenshot_dom_preview.png)
-  
-</details>
-
 
 ### *31 October 2020*
 
@@ -184,3 +177,32 @@ I did all the layout, styling, created the database, added assets (images) to th
 Also I've already implemented interaction with DOM elements without page reloading. (it's the main task)
 Just to need to improve several aspects and I'm ready to submit my project!
  
+
+ ### *2-5 November 2020*
+ 
+ ## DOM
+
+ <details>
+  <summary>DOM_preview</summary>
+  
+  ![DOM - screenshot](/task_js_dom/screenshot_dom_preview.png)
+  
+</details>
+
+<details>
+  <summary>DOM_preview</summary>
+  
+  ![JS - screenshot](/task_js_dom/screenshot_js_preview.png)
+  
+</details>
+
+[DEMO](https://krylenger.github.io/kottans_task_js_dom/)/
+[codebase](https://github.com/krylenger/kottans_task_js_dom)
+
+This DOM project was extremly helpful, it let me practice my skills that I gained earlier (such as layout, responsive desing, etc) and as well as practice new knowledge related to DOM topic (event listeners, modifying DOM tree and its content, perfomance issues, etc.)
+
+I would like appreciate the review from mentors once more because they've pointed out to weak parts of my code and helped me understand what's the best approach in particular situation. 
+
+For example that big functions that do a lot of work much better to separate into smaller ones to increase the readability of my code and to make it easy to test in the future.
+
+Also what was interesting - it's a good approauch to use `initApp` function and place there all event listeners and different 'load' functions. Then you can pass this function to document.addEventListener('DOMContentLoaded', initApp).
