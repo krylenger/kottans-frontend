@@ -206,3 +206,8 @@ I would like appreciate the review from mentors once more because they've pointe
 For example that big functions that do a lot of work much better to separate into smaller ones to increase the readability of my code and to make it easy to test in the future.
 
 Also what was interesting - it's a good approauch to use `initApp` function and place there all event listeners and different 'load' functions. Then you can pass this function to document.addEventListener('DOMContentLoaded', initApp).
+
+
+### *7 November 2020*
+
+Completed all theoretical part of OOP course from Udacity.
