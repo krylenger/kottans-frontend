@@ -211,3 +211,9 @@ Also what was interesting - it's a good approauch to use `initApp` function and 
 ### *7 November 2020*
 
 Completed all theoretical part of OOP course from Udacity.
+
+### *8 November 2020*
+
+## pre-OOP 'a Tiny JS World'
+Completed pre-OOP project: 'Building a Tiny JS World'.
+This task was pretty easy however I learned that I can use <pre> tag to display the text exactly as written in the HTML source code.
