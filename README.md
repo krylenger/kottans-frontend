@@ -216,7 +216,7 @@ Completed all theoretical part of OOP course from Udacity.
 
 ## pre-OOP 'a Tiny JS World'
 Completed pre-OOP project: 'Building a Tiny JS World'.
-This task was pretty easy however I learned that I can use <pre> tag to display the text exactly as written in the HTML source code.
+This task was pretty easy however I learned that I can use pre tag to display the text exactly as written in the HTML source code.
 
 
 ### *9 - 17 November 2020*
