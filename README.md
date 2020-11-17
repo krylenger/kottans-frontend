@@ -217,3 +217,47 @@ Completed all theoretical part of OOP course from Udacity.
 ## pre-OOP 'a Tiny JS World'
 Completed pre-OOP project: 'Building a Tiny JS World'.
 This task was pretty easy however I learned that I can use <pre> tag to display the text exactly as written in the HTML source code.
+
+
+### *9 - 17 November 2020*
+
+## Object Oriented JS
+
+The same situation: even though I didn't commit in here for a week, I've tried to study every day.
+For this period of time I've completed 2 sections: #9 (Object oriented JS)  and #10 (OOP exercise) and almost completed #12 (Memory pair game).
+Please find my reflections on these tasks below.
+
+ <details>
+  <summary>OOP_preview</summary>
+  
+  ![OOP - screenshot](/task_js_oop/screenshot_oop_udacity.png)
+  
+</details>
+
+ <details>
+  <summary>codewars_preview</summary>
+  
+  ![codewars - screenshot](/task_js_oop/screenshot_codewars.png)
+  
+</details>
+
+The exercises from codewars were pretty simple at this stage and I'll definitly come back to them later to practice more my JS skills.
+The OOP course from Udacity gave the general understanding of OOP im JS but I did some extra research to expand and structure my knowledge.
+
+### Frogger game
+
+[Demo](https://krylenger.github.io/frontend-nanodegree-arcade-game/) |
+[Code base](https://github.com/krylenger/frontend-nanodegree-arcade-game/tree/frogger)
+
+At first I was pretty stuck but later on after researching some information I've found the approach to write this game with prototypes. 
+Finally I got the taste for it and added some extra stuff to my game (stars, hearts and score/lives).
+
+
+## OOP Exercise 
+
+This task was extremly usefull in terms of understanding the key principles of OOP.
+After that I watched the video from Optinal section regarding the advantage of Composition over Inheritance, I've decided to accept the challenge and use the composition pattern.
+At first, my code wasn't that great but with the mentor's help I refractored it several times and recieved pretty nice and well structered code that follows the OOP principles (such as DRY, SOLID etc).
+
+
+[a-tiny-JS-world post_OOP](https://github.com/kottans/frontend-2021-homeworks/pull/106)
