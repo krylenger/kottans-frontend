@@ -261,3 +261,24 @@ At first, my code wasn't that great but with the mentor's help I refractored it 
 
 
 [a-tiny-JS-world post_OOP](https://github.com/kottans/frontend-2021-homeworks/pull/106)
+
+
+### *18 - 24 November 2020*
+
+## Memory Pair Game
+
+[Demo](https://krylenger.github.io/memory-pair-game/) |
+[Code base](https://github.com/krylenger/memory-pair-game/tree/sound_version)
+
+This was an extremly interesting and useful task! 
+There are more than a dozen of new topics that I've learned creating this game and which I'm going to use in future:
+-how to shuffle array using sort() and random number
+-how to create nice flip animation
+-that it's better to move literals which are appearing at least two time in the code into constants
+-how to store information inside data attributes of element
+-how to use closest selector
+-practiced more in refractoring code
+- and many many more!
+
+And I was incredibly impressed when my work was published to kottans radio.. 
+Another time want to thank for the feedbacks, it really helps me to grow! 
