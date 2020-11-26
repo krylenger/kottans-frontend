@@ -282,3 +282,18 @@ There are more than a dozen of new topics that I've learned creating this game a
 
 And I was incredibly impressed when my work was published to kottans radio.. 
 Another time want to thank for the feedbacks, it really helps me to grow! 
+
+
+### *25 - 26 November 2020*
+
+## Offline Web Applications
+
+ <details>
+  <summary>Offline Web Applications</summary>
+  
+  ![Offline Web Applications - screenshot](/task_offline_web_app/screenshot.png)
+  
+</details>
+
+This task was quiet challenging for me. It was pretty simple to grasp the main concept and idea of SW but not that easy to accomplish practical tasks from Udacity course. 
+Anyway I got the basics of SW and definitely will expand more on this topic after completing Friends App.
