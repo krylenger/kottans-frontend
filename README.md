@@ -297,3 +297,19 @@ Another time want to thank for the feedbacks, it really helps me to grow!
 
 This task was quiet challenging for me. It was pretty simple to grasp the main concept and idea of SW but not that easy to accomplish practical tasks from Udacity course. 
 Anyway I got the basics of SW and definitely will expand more on this topic after completing Friends App.
+
+
+
+## Friends App
+
+[Demo](https://krylenger.github.io/kottans-friends/) |
+[Code base](https://github.com/krylenger/kottans-friends)
+
+The last project has helped me to learn and understand the async JS, get the main idea and how to work with it. 
+Also pretty useful was combining multiple filters and sorts to render only required data. 
+This seems really very close to real projects! 
+
+
+Wow! What a trip! 
+The last project is done and it's time to celebrate!
+Celebrate the finishing Stage 0 and New Year as well!!)) 
