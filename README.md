@@ -313,3 +313,31 @@ This seems really very close to real projects!
 Wow! What a trip! 
 The last project is done and it's time to celebrate!
 Celebrate the finishing Stage 0 and New Year as well!!)) 
+
+
+## Website Performance Optimization
+
+ <details>
+  <summary>Responsive Images</summary>
+  
+  ![Responsive Images](/task_website_performance/responsive_images.png)
+  
+</details>
+
+ <details>
+  <summary>Website Perfomance Optimization</summary>
+  
+  ![Browser Rendering Optimization](/task_website_performance/browser_rendering_optimization.png)
+  
+</details>
+
+ <details>
+  <summary>Website Perfomance Optimization</summary>
+  
+  ![Website Perfomance Optimization](/task_website_performance/website_performance_optimization.png)
+  
+</details>
+
+And this one is the last one from the Stage 0!
+At this moment the content of Website Perfomance Optimization part is quiet advanced for me.
+I've tried to grasp all the main parts and concepts and I will try to expand on my knowledge in my futher studying. 
